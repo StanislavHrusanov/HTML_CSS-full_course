@@ -1,0 +1,52 @@
+html {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 50px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Georgia, serif;
+}
+
+table {
+    width: 100%;
+    border: 1px solid rgb(221, 221, 221);
+    border-collapse: collapse;
+}
+
+tr,
+td {
+    border: 1px solid rgb(221, 221, 221);
+    padding: 4px 6px;
+}
+
+td {
+    width: calc(100%/3);
+}
+
+tr:nth-child(odd) {
+    background-color: #F0F0F0;
+}
+
+thead th {
+    background-color: lightgray;
+    padding: 4px 6px;
+    text-align: left;
+}
+
+blockquote {
+    border-left: 4px solid rgb(221, 221, 221);
+    margin: 0px 0px 0px 30px;
+    padding: 3px 24px;
+    font-style: italic;
+}
+
+.blockquote-name {
+    text-align: right;
+}
