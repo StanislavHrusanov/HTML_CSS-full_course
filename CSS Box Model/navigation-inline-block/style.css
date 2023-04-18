@@ -1,0 +1,40 @@
+html {
+    font-family: Helvetica, sans-serif;
+    margin: 40px 60px;
+}
+
+header * {
+    display: inline-block;
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+ul {
+    margin-left: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #7CA87C;
+    font-size: 13px;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+h2 {
+    font-size: x-large;
+    font-weight: lighter;
+}
+
+span {
+    font-size: medium;
+    font-weight: bold;
+}
+
+p {
+    font-size: 11px;
+}
