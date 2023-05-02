@@ -1,0 +1,44 @@
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+section {
+    margin: 70px 70px;
+    padding-bottom: 30px;
+    width: 30%;
+    height: auto;
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 20px -4px rgba(0, 0, 0, 1);
+    overflow: hidden;
+}
+
+img {
+    width: 100%;
+}
+
+.text {
+    position: relative;
+    padding: 20px;
+}
+
+h2 {
+    margin: 0;
+    font-family: Georgia, serif;
+    font-size: 1em;
+    line-height: 1.2;
+}
+
+button {
+    position: absolute;
+    right: 20px;
+    padding: 5px 10px;
+    background-color: rgb(0, 153, 0);
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
